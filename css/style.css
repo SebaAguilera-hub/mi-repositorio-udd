@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100vh;
+    width: 100%;
+    min-width: 349px;
+}
+
+.nav{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    background-color: #111827;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-ul{
+    width: 300px;
+    justify-content: space-between;
+    display: flex;
+    list-style: none;
+}
+
+.nav-ul a{
+   color: white;
+   list-style: none;
+   text-decoration: none;
+   font-weight: 500;
+   font-size: 1rem;
+}
+
+.button-login{
+    background-color: #111827;
+    border: none;
+    color: white;
+    font-weight: 500;
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* ICONO */
+.material-symbols-outlined{
+    color: white;
+    display: none;
+
+}
+
+/* FIN DEL NAV */
+
+/* INICIO DEL MAIN */
+
+.main-section{
+    background-color: #111827;
+    /* height: calc(100vh - 80px);  */
+    
+}
+
+.section-left{
+   margin: 0;
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   padding: 20px;
+
+}
+
+.button-ofertas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    border: none;
+    border-radius: 40px;
+    color: white;
+    background-color: black;
+    padding: 0 18px;
+    max-width: 370px;
+}
+
+.button-ofertas .ofertas{
+  font-weight: 600;
+  margin-right: 30px;
+  font-size: 0.8rem;
+}
+
+
+.arrow{
+    display: inline;
+}
+
+h1{
+    color: white;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 90%;
+    text-align: center;
+    margin-top: 20px;
+ 
+}
+
+.section-left p{
+    color: rgb(219, 214, 214);
+}
+
+.eslogan-1{
+    margin: 50px 0;
+}
+
+.input-text{
+    width: 100%;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: 600;
+}
+
+
+.input-button{
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+    font-weight: 600;
+    background-color: #369BA8;
+    color: white;
+    width: 100%;
+
+}
+
+.p-terminos{
+    margin-top: 30px;
+}
+
+.p-terminos span{
+    font-weight: bold;
+}
+
+
+
+
+@media only screen and (max-width: 650px){
+    
+    .nav{
+       justify-content: flex-end;  
+    }
+    
+    .section-left{
+        height: 500px;
+    }
+    
+
+    .burger{
+        display: block;
+        float: right;
+        margin-right: 30px; 
+        font-size: 30px;
+    }
+
+    .nav-ul, .button-login {
+        display: none;
+    }
+    
+    
+
+    h1{
+        color: white;
+        font-size: 36px;
+        font-weight: 900;
+        line-height: 90%;
+        text-align: left;
+        margin-top: 20px;
+     
+    }
+
+    .form-container{
+       display: flex;
+       flex-direction: column;
+       width: 100%;
+       height: auto;
+       gap: 10px;
+    
+    }
+
+   .section-right{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+      width: 100%;
+      height: 230px;
+   }
+    
+   .section-right-img{
+     width: 380px;
+     height: 180px;
+     background-color: red;
+   }
+
+} 
+
