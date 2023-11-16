@@ -6,7 +6,6 @@
 
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    height: 100vh;
     width: 100%;
     min-width: 349px;
 }
@@ -135,12 +134,162 @@ h1{
 }
 
 .p-terminos{
-    margin-top: 30px;
+    margin-top: 10px;
+    font-size: 0.8rem;
 }
 
 .p-terminos span{
     font-weight: bold;
 }
+
+/* Seccion de la imagen */
+  .section-right-img{
+    background-image: url("../img/foto-main.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+  }
+
+
+/* INICIO SEGUNDA SECCION */
+  .second-section{
+    background-color: #F9FAFB;
+    margin-top: 0;
+    width: 100%;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    display: flex;
+  }
+
+  .titles-second-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .titles-second-section .title-second-section{
+    text-transform: uppercase;
+    font-weight: 600;
+    line-height: 1.5;
+    font-size: 1rem;
+  }
+
+  .titles-second-section .subtitle-second-section{
+    font-weight: 800;
+    color: #111827;
+    line-height: 2rem;
+    font-size: 1.8rem;
+    text-align: center;
+  }
+  
+  .titles-second-section .text-second-section{
+    color: #8f8b8b;
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 1.2rem;
+  }
+
+  .card{
+    border-radius: 10px;
+    margin-top: 2.5rem;
+    max-width: 420px; 
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 7px 16px -4px rgba(0,0,0,0.75);
+  }
+
+
+  .card-image{
+    border-radius: 10px 10px 0 0;
+    min-height: 180px;
+    background-image: url("../img/galeria-1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  
+
+  .card-description{
+    padding: 24px;
+  }
+  
+  .card-text-container{
+    margin-bottom: 1rem;
+  }
+
+  .nueva{
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+
+  .card-a{
+    text-decoration: none;
+    color: #8f8b8b;
+  }
+
+  .card-title{
+    color: rgb(17,24,39);
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+  }
+
+  .card-text{
+    line-height: 1.5rem;
+  }
+
+  .card-user{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+  }
+
+ /* Estilos para el usuario */
+
+  .user-image{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: black;
+  }
+  
+  .user-name{
+    font-weight: 600;
+  }
+  
+  .user-date{
+    color: gray;
+  }
+  
+/* Imagenes de los usuarios */
+  .user1{
+    background-image: url("../img/perfil-2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .user2{
+    background-image: url("../img/perfil-1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+ 
+
+
+
+  
+
+
 
 
 
@@ -192,14 +341,20 @@ h1{
     display: flex;
     justify-content: center;
     align-items: flex-end;
-      width: 100%;
-      height: 230px;
+    width: 100%;
+    height: 230px;
+    padding-left: 20px;
+    padding-right: 20px;
    }
     
    .section-right-img{
-     width: 380px;
+     width: 100%;
      height: 180px;
-     background-color: red;
+   }
+
+   .second-section{
+       flex-direction: column;
+       width: 100%; 
    }
 
 } 
