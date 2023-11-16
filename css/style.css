@@ -8,6 +8,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 100%;
     min-width: 349px;
+    background-color: #F9FAFB;
 }
 
 .nav{
@@ -160,7 +161,7 @@ h1{
     padding-top: 50px;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
     display: flex;
   }
 
@@ -281,6 +282,71 @@ h1{
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+  /* TERCERA SECCION */
+  
+  .third-section{
+    margin-top: 20px;
+    background-color: #111827;
+  }
+
+  .third-section-image{
+    width: 100%;
+    min-height: 200px;
+    background-image: url("../img/ultima-seccion.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  .third-section-text-container{
+     padding: 40px 20px 20px 20px;
+     color: white;
+  }
+
+  .third-section-title{
+    font-weight: 600;
+    line-height: 1.8rem;
+    color: #c2bdbd;
+    
+  }
+
+  .third-section-h2{
+    line-height: 2rem;
+    font-weight: 800;
+    font-size: 2rem;
+  }
+
+  .third-section-text{
+    margin-top: 1rem;
+    line-height: 1.6rem;
+    color: #c2bdbd;
+  }
+
+  .third-button-container{
+    width: 100%;
+    height: auto;
+    margin-top: 1.7rem;
+  }
+
+  .third-section-button{
+    border: none;
+    border-radius: 5px;
+    line-height: 1.5rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    width: 13rem;
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: #504e4e;
+  }
+
+   
+
+
+
+
+
 
 
  
