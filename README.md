@@ -1,9 +1,12 @@
 <h1>Proyecto UDD N°1</h1>
+
+![]("C:\Users\sebas\OneDrive\Escritorio\codigo\UDD-Git\img\banner.png")
+
 > 
 <p>
 En la siguiente documentación se describen los elementos que componen la página web y sus funciones.
 </p>
-
+>
 <h3>Navegacion</h3>
 <p>
 El elemento de navegación posee cuatro botones para navegar a traves de la web: <strong>catálogo, ¿quiénes somos?, contacto e iniciar sesión</strong>...
