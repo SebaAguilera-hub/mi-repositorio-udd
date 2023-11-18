@@ -1,6 +1,6 @@
 <h1>Proyecto UDD N°1</h1>
 
-![banner]("C:\Users\sebas\OneDrive\Escritorio\codigo\UDD-Git\img\banner.png")
+![]("\codigo\UDD-Git\img\banner.png")
 
 > 
 <p>
