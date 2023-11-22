@@ -1,6 +1,6 @@
 <h1>Proyecto UDD N°1</h1>
 
-![algo](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/banner.png")
+![imagen de banner](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/banner.png)
 
 <p>
 En la siguiente documentación se describen los elementos que componen la página web y sus funciones.
