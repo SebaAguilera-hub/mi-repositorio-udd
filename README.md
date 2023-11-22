@@ -2,7 +2,6 @@
 
 ![]("\codigo\UDD-Git\img\banner.png")
 
-> 
 <p>
 En la siguiente documentación se describen los elementos que componen la página web y sus funciones.
 </p>
