@@ -1,6 +1,6 @@
 <h1>Proyecto UDD N°1</h1>
 
-![]("\img\banner.png")
+![]("..\img\banner.png")
 
 <p>
 En la siguiente documentación se describen los elementos que componen la página web y sus funciones.
