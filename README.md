@@ -16,6 +16,7 @@ En la siguiente documentación se describen los elementos que componen la págin
 3. Footer
 
 <h2>Navegacion</h2>
+
 ![imagen de banner](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/nav.jpeg)
 
 <p>
