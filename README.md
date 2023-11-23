@@ -18,7 +18,7 @@ En la siguiente documentación se describen los elementos que componen la págin
 <h2>Navegacion</h2>
 <figure>
     <img src="https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/nav.jpeg"
-         alt="Albuquerque, New Mexico"  width="200" height="100">
+         alt="Albuquerque, New Mexico"  width="400" height="250">
 </figure>
 
 
