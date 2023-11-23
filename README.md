@@ -1,11 +1,4 @@
 
-<style>
-	img{
-	   width: 450px;
-	   heigth: 300px;
-	}
-</style>
-
 <h1>Proyecto UDD N°1</h1>
 
 ![imagen de banner](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/banner.png)
@@ -23,8 +16,11 @@ En la siguiente documentación se describen los elementos que componen la págin
 3. Footer
 
 <h2>Navegacion</h2>
+<figure>
+    <img src="https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/nav.jpeg"
+         alt="Albuquerque, New Mexico">
+</figure>
 
-![imagen del nav](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/nav.jpeg)
 
 <p>
 El elemento de navegación posee cuatro botones para navegar a traves de la web: <strong>catálogo, ¿quiénes somos?, contacto e iniciar sesión</strong>...
