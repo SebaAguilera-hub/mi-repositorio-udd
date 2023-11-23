@@ -9,24 +9,20 @@ En la siguiente documentación se describen los elementos que componen la págin
 
 <h1> Indice </h1>
 1. Navegacion
-2. Contenido
+2. Secciones
     1. Main section
     2. Second section
 	3. Third section
 3. Footer
 
 <h2>Navegacion</h2>
-<figure>
-    <img src="https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/nav.jpeg"
-         alt="Albuquerque, New Mexico"  width="450" height="250">
-</figure>
-
+![imagen de banner](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/nav.jpeg)
 
 <p>
-El elemento de navegación posee cuatro botones para navegar a traves de la web: <strong>catálogo, ¿quiénes somos?, contacto e iniciar sesión</strong>...
+El elemento de navegación (coloreada en celeste) posee cuatro botones para navegar a traves de la web: <strong>catálogo, ¿quiénes somos?, contacto e iniciar sesión</strong>...
 </p>
 
-<h2>Secciones del proyecto</h2>
+<h2>Secciones</h2>
 <p>
 El sitio se divide en cuatro secciones principales las cuales muestran elementos diferentes debido a que cumplen roles diferentes en la navegación del usuario.
 
