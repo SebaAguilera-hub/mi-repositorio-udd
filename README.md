@@ -1,3 +1,11 @@
+
+<style>
+	img{
+	   width: 450px;
+	   heigth: 300px;
+	}
+</style>
+
 <h1>Proyecto UDD N°1</h1>
 
 ![imagen de banner](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/banner.png)
