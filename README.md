@@ -14,6 +14,7 @@ En la siguiente documentación se describen los elementos que componen la págin
     2. Second section
 	3. Third section
 3. Footer
+4. Despliegue
 
 
 
@@ -59,3 +60,6 @@ En esta sección del footer los enlaces se ven representados como rectangulos am
 ![imagen del footer](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/footer.jpeg)
 
 <p> En el <strong>footer</strong>	 estan los enlaces a las redes sociales, y otros vinculos de ayuda como <strong>soporte </strong>y <strong>nosotros</strong> </p>
+
+<h2>Despliegue</h2>
+<p>Enlace para acceder al proyecto: <strong>https://sebaaguilera-hub.github.io/index.html</strong></p>
