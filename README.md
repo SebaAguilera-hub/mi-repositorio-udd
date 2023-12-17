@@ -29,17 +29,17 @@ Las secciones son: <strong>main section, second section , third section y el foo
 </p>
 
 
- <strong>Main section</strong> 
+ <strong>MAIN SECTION</strong> 
 
 Estructura básica del la sección "main section" del proyecto.
 ![imagen del main section](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/main-section.jpeg)
 
-<strong>Second section</strong>
+<strong>SECOND SECTION</strong>
 
 La estructura básica de la segunda sección de el contenido principal
 ![imagen del second section](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/second-section.jpeg)
 
-<strong>Third section</strong>
+<strong>THIRD SECTION</strong>
 
 En esta tercera sección del contenido principal solo hay una imagen ,texto y un botón.
 ![imagen de third section](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/third-section.jpeg)
