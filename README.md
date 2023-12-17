@@ -15,9 +15,11 @@
 
 <h2>Navegacion</h2>
 
+La seccion de navegación corresponde a la parte superior de la landing page y es en esta sección del docuemento donde el usuario puede rapiamente consultar las diferentes partes de la página web, el nav posee la cualidad de que al encogerse la pantalla esta desaparece y en su lugar aparece la iconica imagen de "burger" que sirve para desplegar las opciones del nav pero de manera simple y acorde a la pantalla. 
+
 <figure>
     <img src="https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/nav.jpeg"
-          width="400px" alt="nav">
+         alt="nav">
 </figure>
 
 ![imagen de banner]()
