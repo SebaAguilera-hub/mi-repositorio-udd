@@ -15,7 +15,12 @@
 
 <h2>Navegacion</h2>
 
-![imagen de banner](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/nav.jpeg)
+<figure>
+    <img src="https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/nav.jpeg"
+         alt="nav">
+</figure>
+
+![imagen de banner]()
 
 <p>
 El elemento de navegación (coloreada en celeste) posee cuatro botones para navegar a traves de la web: <strong>catálogo, ¿quiénes somos?, contacto e iniciar sesión</strong>...
