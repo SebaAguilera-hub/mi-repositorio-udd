@@ -17,7 +17,7 @@
 
 <figure>
     <img src="https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/nav.jpeg"
-          width="200px" alt="nav">
+          width="400px" alt="nav">
 </figure>
 
 ![imagen de banner]()
