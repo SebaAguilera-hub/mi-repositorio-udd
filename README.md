@@ -22,8 +22,6 @@ La seccion de navegación corresponde a la parte superior de la landing page y e
          alt="nav">
 </figure>
 
-![imagen de banner]()
-
 <p>
 El elemento de navegación (coloreada en celeste) posee cuatro botones para navegar a traves de la web: <strong>catálogo, ¿quiénes somos?, contacto e iniciar sesión</strong>...
 </p>
