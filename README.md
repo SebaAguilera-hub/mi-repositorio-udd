@@ -4,12 +4,12 @@
 ![imagen de banner](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/banner.png)
 
 <h1> Indice </h1>
-<ul>
+<ol>
     <li>Navegaciónn</li>
     <li>Secciones</li>
     <li>Footer</li>
     <li>Despliegue</li>
-</ul>
+</ol>
 
 
 
