@@ -1,5 +1,5 @@
 
-<h1>Proyecto UDD N°1</h1>
+<h1>Proyecto UDD N°1: Landing Page</h1>
 
 ![imagen de banner](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/banner.png)
 
@@ -8,7 +8,7 @@
 2. Secciones
     1. Main section
     2. Second section
-	3. Third section
+3. Third section
 3. Footer
 4. Despliegue
 
