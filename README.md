@@ -4,13 +4,13 @@
 ![imagen de banner](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/banner.png)
 
 <h1> Indice </h1>
-1. Navegacion
-2. Secciones
-    1. Main section
-    2. Second section
-3. Third section
-3. Footer
-4. Despliegue
+<ul>
+    <li>Navegaciónn</li>
+    <li>Secciones</li>
+    <li>Footer</li>
+    <li>Despliegue</li>
+</ul>
+
 
 
 <h2>Navegacion</h2>
