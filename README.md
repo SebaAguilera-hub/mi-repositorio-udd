@@ -3,10 +3,6 @@
 
 ![imagen de banner](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/banner.png)
 
-<p>
-En la siguiente documentación se describen los elementos que componen la página web y sus funciones.
-</p>
-
 <h1> Indice </h1>
 1. Navegacion
 2. Secciones
