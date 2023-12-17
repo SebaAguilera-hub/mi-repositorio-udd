@@ -13,12 +13,6 @@
 4. Despliegue
 
 
-
-
-
-
----------------------------------------------------------------------------------------
-
 <h2>Navegacion</h2>
 
 ![imagen de banner](https://github.com/SebaAguilera-hub/mi-repositorio-udd/blob/main/img/nav.jpeg)
